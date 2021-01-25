@@ -1,4 +1,4 @@
-public class InsuranceStrategyMedium extends calculate {
+public class InsuranceStrategyMedium extends InsuranceStrategy {
     public int getConstant() {
         return 35600;
     }
